@@ -1,0 +1,58 @@
+export default [
+  {
+    id: crypto.randomUUID(),
+    img: "https://cdn0.it4profit.com/s3size/rt:fill/w:510/h:510/g:no/el:1/f:webp/plain/s3://cms/product/db/8b/db8b52aef62dc9199dbd2672fd196f30/210927160025988643.webp",
+    name: "Iphone 13",
+    price: 1000,
+    count: 20,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://www.singtel.com/content/dam/singtel/eshop/Mobile/Handset/Apple/iPhone15/iphone15-promax-natural-titanium-a7a29c-600x600-01.jpg",
+    name: "Iphone 15 Pro Max",
+    price: 1500,
+    count: 40,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://www.costco.co.uk/medias/sys_master/images/h85/h9c/175083427889182.jpg",
+    name: "Iphone 15",
+    price: 900,
+    count: 10,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://lh3.googleusercontent.com/iCWEb7IGXfOL_RVPMkvtVooumjygwEmsDpKOsghpUEkSOPk2e4dXNAf0vxpnwdkha4ayU2fasz_aCsinajln27zqn2eitUf5-JU",
+    name: "Google Pixel",
+    price: 1550,
+    count: 2,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/11-purple.png",
+    name: "Iphone 11",
+    price: 520,
+    count: 25,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://www.sbsmobile.com/esp/211775-thickbox_default/skinny-cover-for-nokia-3310-dual-sim.jpg",
+    name: "Nokia",
+    price: 1100,
+    count: 50,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://d3fyizz0b46qgr.cloudfront.net/global/phones/ec79199798a42300338ce1362756eef3.png",
+    name: "Honor",
+    price: 600,
+    count: 30,
+  },
+  {
+    id: crypto.randomUUID(),
+    img: "https://www.nothingtech.co.za/wp-content/uploads/2022/10/Phones-Side-by-Side-1.png",
+    name: "Nothing Phone",
+    price: 1250,
+    count: 12,
+  },
+];
